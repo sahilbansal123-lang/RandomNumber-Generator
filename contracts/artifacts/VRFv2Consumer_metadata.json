@@ -264,9 +264,6 @@
 				"acceptOwnership()": {
 					"notice": "Allows an ownership transfer to be completed by the recipient."
 				},
-				"constructor": {
-					"notice": "HARDCODED FOR SEPOLIA COORDINATOR: 0x8103B0A8A00be2DDC778e6e7eaa21791Cd364625"
-				},
 				"owner()": {
 					"notice": "Get the current owner"
 				},
@@ -334,11 +331,11 @@
 			]
 		},
 		"contracts/RandomNumberGeneration.sol": {
-			"keccak256": "0x5281bd43cd32963051857665d4e9a8e70115bf6d899671abd5b6ad7d68fabb1a",
+			"keccak256": "0x07562d863d4a082c1d491b7b0d503994d94760d3334f11e7f3c90d25f45a3915",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f73c5dfb64766c2208a635080085193c744ce5d91255593f9c00e3a8dc83987a",
-				"dweb:/ipfs/QmSvnJxFwLZfGWpYiNU24dqGXFSBiuC32BdsMWaRkWJAcH"
+				"bzz-raw://4ca125f22b5aa1fe05296aefa1ae1986805548246896f3f59da3b0bda4ec0765",
+				"dweb:/ipfs/QmUpzBxeL6Bzj3jSPpUJCqckV6nNobbgNhoNsYJSap3ouY"
 			]
 		}
 	},
